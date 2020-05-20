@@ -23,3 +23,7 @@
 * Never purchase a home with a mortgage that is more than 2x your household's annual realized income
 
 * Begin earning and investing early in your adult life
+
+* Wealth is more often the result of a lifestyle of hard work, perseverance, planning, and, most of all, self-discipline
+
+* Choose a financial advisor who is endorsed by an enlightened accountant and/or his clients with investment portfolios that in the long run outpace the market. If you don’t have an accountant, hire one. To find a high-quality accountant, ask friends or associates who fit the PAW profile. You may wish to call the accounting department at your state’s university. Speak with several accounting faculty. Ask them for the names of their former students who have established track records in helping clients make enlightened financial decisions. Another method is to call the local offices of national accounting firms, which are often very selective in their hiring. Even large firms have many smaller accounting/financial planning clients. We selected our CPAs based on two criteria. First, the CPAs were recommended by professors of accounting. Second, the CPAs were initially hired out of college by major accounting firms and later started their own successful accounting firms. We find that many of the very best CPAs and financial planners follow this career path
