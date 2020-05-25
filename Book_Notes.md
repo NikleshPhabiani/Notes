@@ -1,4 +1,4 @@
-## The Millionaire Next Door
+## The Millionaire Next Door - Thomas Stanley and William Danko
 * Common denominators among those who successfully build wealth:
   * Live below their means
   * Allocate time, money, and energy, in ways conducive to building wealth
@@ -26,4 +26,25 @@
 
 * Wealth is more often the result of a lifestyle of hard work, perseverance, planning, and, most of all, self-discipline
 
-* Choose a financial advisor who is endorsed by an enlightened accountant and/or his clients with investment portfolios that in the long run outpace the market. If you don’t have an accountant, hire one. To find a high-quality accountant, ask friends or associates who fit the PAW profile. You may wish to call the accounting department at your state’s university. Speak with several accounting faculty. Ask them for the names of their former students who have established track records in helping clients make enlightened financial decisions. Another method is to call the local offices of national accounting firms, which are often very selective in their hiring. Even large firms have many smaller accounting/financial planning clients. We selected our CPAs based on two criteria. First, the CPAs were recommended by professors of accounting. Second, the CPAs were initially hired out of college by major accounting firms and later started their own successful accounting firms. We find that many of the very best CPAs and financial planners follow this career path
+* Choose a financial advisor who is endorsed by an enlightened accountant and/or his clients with investment portfolios that in the long run outpace the market. If you don’t have an accountant, hire one. To find a high-quality accountant, ask friends or associates who fit the PAW profile. You may wish to call the accounting department at your state’s university. Speak with several accounting faculty. Ask them for the names of their former students who have established track records in helping clients make enlightened financial decisions. Another method is to call the local offices of national accounting firms, which are often very selective in their hiring. Even large firms have many smaller accounting/financial planning clients. We selected our CPAs based on two criteria. First, the CPAs were recommended by professors of accounting. Second, the CPAs were initially hired out of college by major accounting firms and later started their own successful accounting firms. We find that many of the very best CPAs and financial planners follow this career path.
+
+## The Happiness Advantage - Shawn Achor
+
+* Cultivating positive brains makses us more motivated, efficient, resilient, creative, and productive, which drives performance upward
+
+* If we study merely what is average, we will remain merely average. Don't make the error of the average i.e don't always try and get to the average. This links to not removing the outliers, and rather learn from them.
+
+* What we spend our time and mental energy focusing on can indeed become our reality
+
+* Brains are hardwired to perform at their best not when they are negative or neutral, but when they are positive
+
+* Seven principles that predict success and achievement
+  * **The Happiness Advantage**: Positive brains have more biological advantage over negative or neutral brains
+  
+  * **The Fulcrum and the Lever**: The way we experience the world, and the ability to succeed in it changes based on our         mindest. This principle teaches us how we can adjust our mindset (fulcrum) in a way that gives us the power (lever) to be     more fulfilled and successful.
+  
+  * **The Tetris Effect**: When our brain gets stuck in a pattern that focuses on stress, negativity, and failure, we set     
+    ourselves to fail. This principle teaches us how to retrain our brains to spot patters of posibility, so we can seize the
+    opportunities around us.
+
+
