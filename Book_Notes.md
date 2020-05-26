@@ -41,10 +41,64 @@
 * Seven principles that predict success and achievement
   * **The Happiness Advantage**: Positive brains have more biological advantage over negative or neutral brains
   
-  * **The Fulcrum and the Lever**: The way we experience the world, and the ability to succeed in it changes based on our         mindest. This principle teaches us how we can adjust our mindset (fulcrum) in a way that gives us the power (lever) to be     more fulfilled and successful.
+  * **The Fulcrum and the Lever**: The way we experience the world, and the ability to succeed in it changes based on our         mindset. This principle teaches us how we can adjust our mindset (fulcrum) in a way that gives us the power (lever) to be     more fulfilled and successful.
   
   * **The Tetris Effect**: When our brain gets stuck in a pattern that focuses on stress, negativity, and failure, we set     
     ourselves to fail. This principle teaches us how to retrain our brains to spot patters of posibility, so we can seize the
     opportunities around us.
+    
+  * **Falling Up**: This principle is about finding the mental path that not only leads us up out of failure or suffering, 
+    but teaches us to be happier and more successful because of it.
+     
+  * **The Zorro Circle**: When challenges loom and we get overwhelmed, our rational brains can get hijacked by emotions. This
+    principle teaches us how to regain control by focusing first on small, manageable goals, and then gradually expanding our
+    circles to achieve bigger and bigger ones.
+     
+  * **The 20-second Rule**: Sustaining lasting change often feels impossible since our willpower is limited. When our 
+    willpower fails, we fall back to out old habits, and succumb to the path of least resistance. This principle shows, how
+    by making small energy adjustments, we can reroute the path of least resistance and replace bad habits with good ones.
+     
+  * **Social Investment**: In the midst of challenges and stress, we choose to hunker down and retreat within ourselves. 
+    However, the most successful people invest in their friends, peers and family members to propel themselves forward. This 
+    principle teaches us how to invest more in one of the greates predictors of success and excellence - our social support 
+    network.
 
+* Happiness is not a belief that we don't need to change, it is the realization that we can
+
+* Don't look at happiness as some distant reward for achievements. Rather, capitalize on the positive and reap the rewards at 
+  every turn.
+  
+* Happiness is the joy we feel striving after our potential
+ 
+* Positive emotions flood our brains with dopamine and serotonin, chemicals that not only make us feel good, but dial up the 
+  learning centers of our brains to higher levels. It helps us organize new information, keep that info in the brain longer,
+  and retrieve it faster
+   
+* **Medical anchoring**: Occurs when a doctor has trouble letting go of an initial diagonosis (anchor point), even in the 
+  face of new information that contradicts the initial theory.
+  
+* Positive emotions provide a quick and powerful antidote to stress and anxiety, which in turn improves our focus and our 
+  ability to function at the best level.
+  
+* **Some ways to put yourself in a positive mindset**:
+  * Meditate
+  * Find something to look forward to
+  * Commit conscious acts of kindness
+  * Infuse positivity in your surroundings
+  * Exercise
+  * Spend money on doing and not having
+  * Exercise a signature strength
+  
+* Sacrificing positivity in the name of time management and efficiency actually slows us down
+
+* **Some ways to spread positive mindset**:
+  * Talk about someone in the company who deserves recognition (Basically words of appreciation make a huge difference)
+  * A small token of appreciation from one person to another
+  
+* The mental contruction of our faily activities, more than the activity itself, defines our reality
+
+* Believe in your abilities, and focus on your strengths when assigned a challenging task
+
+* Scanning the world for negatives undercuts our creativity, raises our stress levels, and lowers the motivation and ability
+  to accomplish goals
 
