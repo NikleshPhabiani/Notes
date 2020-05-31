@@ -101,4 +101,6 @@
 
 * Scanning the world for negatives undercuts our creativity, raises our stress levels, and lowers the motivation and ability
   to accomplish goals
+  
+* Perform the *Three Good Things* Exercise daily
 
