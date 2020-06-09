@@ -104,3 +104,17 @@
   
 * Perform the *Three Good Things* Exercise daily
 
+* **Counterfact**: An alternate scenario our brain creates to help us evaluate and make sense of what really happened
+
+* Learn the ABCD (Adversity, Belief, Consequence, Disputation)
+
+* Activation energy is the initial spark needed to catalyze a reaction. The same energy, both physical and mental is needed 
+  of people to overcome inertia and kick-start a positive habit. Otherwise, we end up going down on a path of least  
+  resistance.
+  
+* Lower the activation energy for the habits that you want to adobt, and raise it for the ones you want to avoid. The more we 
+  lower the activation energy for our desired actions, the more we enhance our ability to jump-start positive change.
+  
+* Studies show that the more team members are encouraged to socialize and interact face-to-face, the more engaged they feel, 
+  the more energy they have, and the longer they can stay focused on a task.
+
