@@ -117,4 +117,34 @@
   
 * Studies show that the more team members are encouraged to socialize and interact face-to-face, the more engaged they feel, 
   the more energy they have, and the longer they can stay focused on a task.
+  
+## Atomic Habits - James Clear
 
+* A habit is a routine or a behavior performed regularly, and in many cases automatically
+
+* Changes that seem small and unimportant at first will compound into remarkable results when you stick with them for years
+
+* You get what you repeat
+
+* Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your 
+  ally. Bad habits make time your enemy.
+  
+* Habits need to persist long enough to break the Plateau of Latent Potential, in which the initial growth is very slow, and 
+  once you cross the threshold, you see remarkable results.
+  
+* Goals are about the results you want to achieve. Systems are the processes that lead to those results.
+
+* Goals are good for setting a direction. Systems are good for making progress.
+
+* Fix the inputs and the outputs will fix themselves
+
+* The purpose of goals is to win the game. The purpose of systems is to keep playing the game. True long-term thinking is 
+  goal-less thinking. It is a cycle of endless refinement and continuous improvement.
+  
+* You do not rise to the level of your goals. You fall to the level of your systems.
+
+* Changing habits is challenging because:
+  * We try to change the wrong thing
+  * We try to change our habits in the wrong way
+
+* 
