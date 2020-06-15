@@ -147,4 +147,27 @@
   * We try to change the wrong thing
   * We try to change our habits in the wrong way
 
-* 
+![Three Layers of Behavior Change](Images/Three-Layers-of-Behavior-Change.png)
+* Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
+  
+* Improvements are only temporary until they become a part of who you are i.e of your identity.
+
+* Progress requires unlearning. Becoming the best version requires you to edit your beliefs, and to upgrade and expand your  
+  identity.
+  
+* New identities require new evidence. It is a 2-step process:
+  * Decide the type of person you want to be
+  * Prove it to yourself with small wins
+  
+* Habits are not about having something. They are about becoming someone.
+
+* Habits do not restrict freedom. They create it. Habits get done automatically, and gives us more mental space to focus on new challenges.
+
+* Hearing your bad habits spoken aloud make the consequences seem more real.
+
+* Best way to start a new habit:
+  * Implementation intention: Plan you make beforehand about when and where to act. (With a particular time and location)
+  * Habit stacking: Identify a current habit you do each day, and then stack your new behavior on top of it. (With a  
+    particular current habit)
+
+
