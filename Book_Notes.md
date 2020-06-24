@@ -170,4 +170,17 @@
   * Habit stacking: Identify a current habit you do each day, and then stack your new behavior on top of it. (With a  
     particular current habit)
 
+## Zero to One - Peter Theil
 
+![Four Views](Images/Four_Views.jpg)
+* A definite view favors firm convictions. Instead of pursuing many-sided mediocrity, a definite person decides the one best thing to do and then does it.
+**Definite Optimism**: Envision and do it.
+**Definite Pessimism**: Copy without expecting anything new.
+**Indefinite Pessimism**: Self-fulfilling; Slacker with low expectations.
+**Indefinite Optimism**: Some progress without planning.
+
+* To increase discretionary spending, we would need definite plans to solve specific problems.
+
+* In startups, intelligent design works best.
+
+* Lean way of starting is a methodology, not a goal. Making small changes to things that already exist might lead to a local maximum, not a global maximum.
