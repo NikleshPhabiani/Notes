@@ -228,3 +228,9 @@
     once we have cash in hand, we can do anything at that moment, and don't try to create new value for the company in the future.
     
   * The most valuable kind of company maintains an openness to invention that is most characteristic of its beginnings. Keep being born by creating new things.
+  
+* If you want someone to join your company, tell them about your mission and team.
+
+* Superior sales and distributiion by itself can create a monopoly, even with no product differentiation. However, the opposite is not true.
+
+* 
