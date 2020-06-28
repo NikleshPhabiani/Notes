@@ -184,3 +184,47 @@
 * In startups, intelligent design works best.
 
 * Lean way of starting is a methodology, not a goal. Making small changes to things that already exist might lead to a local maximum, not a global maximum.
+
+* **The Power Law**: A small handful of companies radically outperform all others. If you focus on diversification instead of pursuit of the very few companies that can become overwhelmingly valuable, you will miss out on those rare companies in the first place.
+  * Only invest in companies that have the potential to return the value of the entire fund. This is scary because it eliminates the vast majority of possible
+    investments.
+  * The one who understands the power law will make as few investments as possible (Diversification is not always a strength)
+  
+* **Secrets**: There still are hidden problems that we need to identify, and solve. If there are many secrets, there are many world changing companies yet to be 
+  started.
+    * Four social trends have made us root out our belief in secrets:
+      * Incrementalism: We tend to do only a bit incremental work on top of already existing work.
+      * Risk Aversion: The prospect of taking the risk and being lonely but right is scary. The prospect of being lonely and wrong is unbearable.
+      * Compacency: We try to reap the benefits of the past.
+      * Flatness: With globalization, we think that everyone has access to everything. If it were possible to discover something new, someone in some corner
+        of the world has already done it.
+        
+    * To say there are no secrets left would mean that we live in a world with no hidden injustice. Slavery was once considered normal until it was identified 
+      as an injustice.
+      
+    * In econimics, disbileif in screts leads to faith in efficient markets. However, this leads to a bubble and ultimately the market crashes.
+    
+    * There are many more secrets, and will yield to only relentless searchers.
+    
+    * Two kinds of secrets: **Secrets of nature** and **Secrets about people** +
+      When thinking of what kind of company to build, ask yourself:
+      1. What secrets is nature not telling you?
+      2. What secrets are people not telling you?
+  
+* **Foundations**:
+
+  * Technical abilities and compelmentary skill sets of co-founders matter, but how well they work together matter just as much. They should have a prehistory 
+    before they start a company together.
+    
+  * Useful to distinguish between:
+    * Ownership (Who legally owns a company's equity?): In a startup, usually the founders, employees, and investors.
+    * Possession (Who actually runs the company on a day-to-day basis?): In a startup, it is the employees.
+    * Control (Who formally governs the company's affairs?): In a startup, usually the Board of Directors comprising of founders and investors.
+    
+  * If you want an effective board, keep it small. For a private company, a board of three is ideal. It should never exceed five. For public companies, the average
+    is nine members.
+    
+  * For a venture backed startup, a low pay CEO is what is desired. Any cash is more about short term (present) rather than long term (future). This is because
+    once we have cash in hand, we can do anything at that moment, and don't try to create new value for the company in the future.
+    
+  * The most valuable kind of company maintains an openness to invention that is most characteristic of its beginnings. Keep being born by creating new things.
