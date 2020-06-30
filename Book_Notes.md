@@ -202,7 +202,7 @@
     * To say there are no secrets left would mean that we live in a world with no hidden injustice. Slavery was once considered normal until it was identified 
       as an injustice.
       
-    * In econimics, disbileif in screts leads to faith in efficient markets. However, this leads to a bubble and ultimately the market crashes.
+    * In economics, disbileif in screts leads to faith in efficient markets. However, this leads to a bubble and ultimately the market crashes.
     
     * There are many more secrets, and will yield to only relentless searchers.
     
@@ -233,4 +233,17 @@
 
 * Superior sales and distributiion by itself can create a monopoly, even with no product differentiation. However, the opposite is not true.
 
-* 
+* Humans and Computers together could achieve better than either of them alone.
+
+* Seven questions that every company must answer:
+  * The Engineering Question: Can you create breakthrough technology instead of incremental improvements?
+  * The Timing Question: Is now the right time to start your particular business?
+  * The Monopoly Question: Are you starting with a big share of a small market?
+  * The People Question: Do you have the right team?
+  * The Distribution Question: Do you have a way to not just create but to deliver the product?
+  * The Durability Question: Will your market position be defensible 10 and 20 years into the future?
+  * The Secret Question: Have you identified a unique opportunity that others don't see?
+  
+* An entrepreneur can't benefit from macro-scale insights unless his own plans begin at the micro-scale.
+
+* Start small. Become big in a small market, and then scale.
