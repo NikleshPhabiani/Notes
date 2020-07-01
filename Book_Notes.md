@@ -172,6 +172,50 @@
 
 ## Zero to One - Peter Theil
 
+* Horizontal progress (Globalization): Copying things that work.
+
+* Vertical progress (Technology): Doing new things.
+
+* In a world of scarce resources, globalization without new technology is unsustainable.
+
+* A startup is the largest group of people you can convince of a plan to build a different future.
+
+* Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
+
+* What a startup needs to do? - Question received ideas and rethink business from scratch.
+
+* First step to thinking clearly is to question what we think we know about the past.
+
+* Some principles that might work:
+  * Better to risk boldness than triiviality.
+  * A bad plan is better than no plan.
+  * Competitive markets destroy profits.
+  * Sales matters just as much as product.
+  
+* Don't ignore the dogmas of the past. Think about the past mistakes and think for yourself.
+
+* If you want to create and capture lasting value, don't build an undifferentiated commodity business.
+
+* Competitive firms try to showcase themselves as a monopoly (Try to define their market as **intersection** of smaller markets).
+  Monpolists try to showcase themselves as being in competition to avoid scrutinization (Try to frame their market as **union** of several markets).
+  
+* Creative monopolists give customers more choices by adding entirely new categories of abundance to the world. The are not just good for society; the are powerful 
+  engines for making it better.
+
+* Monopoly is the condition for a successful business. All happy companies are different; Each have a monopoly by solving a unique problem. All failed companies
+  are the same; they failed to escape competition.
+  
+* A great tech busiiness iis defined by its ability to generate cash flows in the future.
+
+* Characteristics of Monopoly:
+  * **Proprietary Technology**: It must be atleast 10x better than its closest substitute in some important dimension. The clearest way to make > 10x improvement
+    is to invent something completely new.
+  * **Network Effects**: It makes a product more useful as more people use it. Start small and then scale. The perfect target market for a startup is a small
+    group of people concentrated together and served by few or no competitors. Post this, expand into related and slightly broader markets. As you craft a plan 
+    to adjacent markets, don't disrupt: avoid competition as much as possible.
+  * **Economies of Scale**: Fixed costs of creating a product can be spread out over greater quantities of sales.
+  * **Branding**
+
 ![Four Views](Images/Four_Views.jpg)
 * A definite view favors firm convictions. Instead of pursuing many-sided mediocrity, a definite person decides the one best thing to do and then does it.
 **Definite Optimism**: Envision and do it.
@@ -247,3 +291,9 @@
 * An entrepreneur can't benefit from macro-scale insights unless his own plans begin at the micro-scale.
 
 * Start small. Become big in a small market, and then scale.
+
+* Four possible patterns for future of humanity:
+  * Recurrent collapse: Alternation between prosperity and ruin (Ups and Downs).
+  * Plateau: We were reach a plateau, and the future will be same as the present. (Stagnation can lead to extinction because of heavy competition).
+  * Extinction: We will rise up and then fall so hard that we won't be able to recover.
+  * Takeoff: Accelerating takeoff towards a much better future. The breakthrough could take a number of forms
