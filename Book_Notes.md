@@ -296,4 +296,12 @@
   * Recurrent collapse: Alternation between prosperity and ruin (Ups and Downs).
   * Plateau: We were reach a plateau, and the future will be same as the present. (Stagnation can lead to extinction because of heavy competition).
   * Extinction: We will rise up and then fall so hard that we won't be able to recover.
-  * Takeoff: Accelerating takeoff towards a much better future. The breakthrough could take a number of forms
+  * Takeoff: Accelerating takeoff towards a much better future. The breakthrough could take a number of forms.
+  
+## Bogleheads Guide to Investing - Taylor Larimore, Mel Lindauer, Michael Lebouf
+
+* Rule of 72: Divide 72 by the annual return rate to know the time in which the money will be doubled. Eg: 9% annual return wiill double in 72 / 9 = 8 years.
+
+* Borrow funds when the expected payoff is higher than the cost of borrowing.
+
+
