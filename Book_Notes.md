@@ -304,4 +304,20 @@
 
 * Borrow funds when the expected payoff is higher than the cost of borrowing.
 
+## Extreme Ownership
+
+* Be humble and take responsibility for your failures. Leaders make no excuses. They develop solutions and solve problems.
+
+* Prioritize and Execute.
+
+* As a leader, it is not what you preach, it is what you tolerate.
+
+* There are no bad teams, it is only bad leaders.
+
+* In order to convince and inspire others to follow and accomplish a mission, a leader must be a _true believer_ in the mission.
+
+* The leader must explain not just what to do, but why.
+
+*
+
 
